@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wordpressdeveloper101
 - 👀 I’m interested in solving as many problems as possible with my tech skills
-- 🌱 I’m currently learning web 3
-- 💞️ I’m looking to collaborate oninnovative technologies
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on innovative technologies
 - 📫 How to reach me: davidsuccess2006@gmail.com
 
 <!---
